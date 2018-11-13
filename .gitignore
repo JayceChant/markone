@@ -10,3 +10,14 @@
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
+
+# Packaged zip file
+*.zip
+*.7z
+*.rar
+*.tar
+*.gz
+
+# Directories
+/output/
+/log/
