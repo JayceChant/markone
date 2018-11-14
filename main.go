@@ -1,9 +1,9 @@
 package main
 
 import (
-	"markone/cmd"
 	"os"
 
+	"github.com/JayceChant/markone/cmd"
 	"github.com/urfave/cli"
 )
 
